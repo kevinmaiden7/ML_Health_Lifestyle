@@ -58,3 +58,9 @@ Chronic Disease Management: Analyzing how various interventions and treatments i
 Patient Care Analysis: Understanding the role of healthcare providers and the impact of their involvement on patient health outcomes.
 Quality of Life Assessment: Evaluating how different chronic conditions and treatments affect patients’ quality of life.
 Healthcare Provider Performance: Investigating the effectiveness of healthcare providers in managing chronic diseases and patient care.
+
+# Run MLflow Server
+
+```bat
+mlflow server
+```
