@@ -64,3 +64,9 @@ Healthcare Provider Performance: Investigating the effectiveness of healthcare p
 ```bat
 mlflow server
 ```
+
+# Run Optuna Dashboard
+
+```bat
+optuna-dashboard sqlite:///db.sqlite3
+```
