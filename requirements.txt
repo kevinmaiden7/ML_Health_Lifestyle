@@ -8,3 +8,4 @@ tqdm==4.67.0
 optuna==4.1.0
 optuna-dashboard==0.17.0
 imbalanced-learn==0.13.0
+openpyxl==3.1.5
